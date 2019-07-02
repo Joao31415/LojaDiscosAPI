@@ -1,5 +1,3 @@
-README.md
-
 # Loja de Discos - API
 
 
