@@ -85,5 +85,5 @@ https://localhost:5001/api/Venda?Sorts=-data&Filters=data>2019-07-04T00:00:00.0Z
 - Consultar uma venda pelo seu identificador.
 Exemplo (acesso via GET):
 ```
-https://localhost:5001/api/venda/1`
+https://localhost:5001/api/venda/1
 ```
